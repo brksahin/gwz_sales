@@ -1,21 +1,3 @@
-select 
-date_date,
-sum(turnover) as total_turnover
-from data-analytics-469406.course14.gwz_sales
-group by date_date
-order by date_date
+denemedeneme bu sefer
 
-
-DENEME AMAÇLI EKLENEN METİNDİR.
-
-+OKAN OZCAN
-
-+gami
-DENEME AMAÇLI EKLENEN METİNDİR. KADİR İMECİ
-Deneme Selin DİKİNCİ!!!
-RIZA DENEME 2
-Deneme Selin DİKİNCİ
-RIZA DENEME 2
-irmak deneme irmak deneme 2
-KADİR İMECİ 2. DEĞİŞİKLİK
-irmak deneme
++alpcanim txt
